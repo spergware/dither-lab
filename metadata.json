@@ -1,0 +1,5 @@
+{
+  "name": "Dither Lab",
+  "description": "A Material Design 3 inspired image dithering application. Upload photos, adjust brightness/contrast, and apply various dithering algorithms like Floyd-Steinberg or Atkinson with real-time preview.",
+  "requestFramePermissions": []
+}
